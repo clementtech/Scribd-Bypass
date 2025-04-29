@@ -1,3 +1,6 @@
+Will be re-written soon, in progress.
+
+
 # Scribd-Viewer
 Simple Python Based Scribd Viewer to Bypass Paywall
 
