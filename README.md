@@ -7,3 +7,11 @@ I created this program during high school when I struggled to access documents r
 This program aims to bridge that gap and provide opportunities for less fortunate students to access study materials to support their education.
 
 # How does it work?
+
+### How normal Scribd document link looks like:
+```
+https://www.scribd.com/document/{document_id}/{document_title}
+```
+
+### What does the program do?
+- It extracts the document ID from the provided link.
