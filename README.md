@@ -15,6 +15,9 @@ https://www.scribd.com/document/{document_id}/{document_title}
 
 ### What does the program do?
 - It extracts the document ID from the provided link.
+- It builds a unique URL to access the document.
+- Copy the unique URL created and paste it into the user's clipboard.
+- The program will then ask the user if they want the program to open the unique URL in their default web browser.
 
 in progress ....
 
