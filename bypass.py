@@ -45,7 +45,7 @@ if re.match(link_format, url):
 
     # If the user does not consent or enter other input, exit the program
     else:
-        sys.exit("Thank you for trying Scribd-Viewer!")
+        sys.exit("Thank you for trying Scribd-Bypass!")
 
 # If the URL does not match the defined pattern, exit the program with an error message
 # indicating that the URL is invalid
