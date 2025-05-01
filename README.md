@@ -19,6 +19,30 @@ https://www.scribd.com/document/{document_id}/{document_title}
 - Copy the unique URL created and paste it into the user's clipboard.
 - The program will then ask the user if they want the program to open the unique URL in their default web browser.
 
+# Sneak Peek:
+In progress ....
+
+# Prerequisites:
+- [Python](https://www.python.org/downloads/)
+
+# How to use:
+1. Download the project onto your computer.
+    - You can download the project by using the [git](https://git-scm.com/downloads) command:
+    ```
+    git clone https://github.com/clementtech/Scribd-Bypass.git
+    ```
+
+2. Download the required dependencies.
+    - The dependencies can be installed using the following command:
+    ```
+    pip install -r requirements.txt
+    ```
+3. Done setup!
+    - You can run the program by entering the following command:
+    ```
+    python bypass.py
+    ```
+
 in progress ....
 
 
