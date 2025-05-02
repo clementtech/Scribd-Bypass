@@ -35,7 +35,6 @@ https://www.scribd.com/document/{document_id}/{document_title}
 
 ### Error handling:
 ![image](https://raw.githubusercontent.com/clementtech/Scribd-Bypass/refs/heads/main/assets/error_handling.png)
-In progress ....
 
 # Prerequisites:
 - [Python](https://www.python.org/downloads/)
