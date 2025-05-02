@@ -20,6 +20,21 @@ https://www.scribd.com/document/{document_id}/{document_title}
 - The program will then ask the user if they want the program to open the unique URL in their default web browser.
 
 # Sneak Peek:
+
+### Prompt user for Scribd document link:
+![image](https://raw.githubusercontent.com/clementtech/Scribd-Bypass/refs/heads/main/assets/prompt_for_url.png)
+
+### Successful converted link and prompt user to open the link in their default web browser:
+![image](https://raw.githubusercontent.com/clementtech/Scribd-Bypass/refs/heads/main/assets/success_message.png)
+
+### Success message if the user chooses to open the link in their default web browser:
+![image](https://raw.githubusercontent.com/clementtech/Scribd-Bypass/refs/heads/main/assets/open_in_browser_success_message.png)
+
+### If the user chooses not to open the link in their default web browser:
+![image](https://raw.githubusercontent.com/clementtech/Scribd-Bypass/refs/heads/main/assets/open_in_browser_decline_message.png)
+
+### Error handling:
+![image](https://raw.githubusercontent.com/clementtech/Scribd-Bypass/refs/heads/main/assets/error_handling.png)
 In progress ....
 
 # Prerequisites:
