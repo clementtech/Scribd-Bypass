@@ -1,12 +1,17 @@
-# Import modules
-# Pyperclip is used to copy the bypass link to the clipboard
-import pyperclip
 # Re is used to match the URL format
 import re
 # Sys is used to exit the program
 import sys
-# Webbrowser is used to open the link in the default browser
-import webbrowser
+try:
+    # Import modules
+    # Pyperclip is used to copy the bypass link to the clipboard
+    import pyperclip
+
+    # Webbrowser is used to open the link in the default browser
+    import webbrowser
+
+except ModuleNotFoundError:
+    sys.exit("Please install required modules 'pip install -r requirements.txt'")
 
 # Prompt the user for a Scribd URL
 url = str(input("Scribd URL: "))
