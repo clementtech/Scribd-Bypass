@@ -62,5 +62,12 @@ https://www.scribd.com/document/{document_id}/{document_title}
       - The unique URL will be copied to the user's clipboard for easy access.
       - The program will then ask the user if they want the program to open the unique URL in their default web browser.
 
+~~5.~~ Please star the project if you find it useful. It helps me a lot and motivates me to work on more projects like this one.
+    - Also please feel free to create an issue if you find any bugs or have any suggestions for improvement.
+
+# Current Roadmap:
+- [ ] Integration with Telegram bot for easy access.
+- [ ] Web application for easy access.
+
 # Disclaimer:
 This program is intended for educational purposes only. The author does not endorse or promote any illegal activities, including bypassing paywalls or accessing copyrighted material without permission. Users are responsible for ensuring that they comply with all applicable laws and regulations regarding the use of this program and the content accessed through it. The author disclaims any liability for any misuse of this program or its consequences.
