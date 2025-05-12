@@ -62,7 +62,7 @@ https://www.scribd.com/document/{document_id}/{document_title}
       - The unique URL will be copied to the user's clipboard for easy access.
       - The program will then ask the user if they want the program to open the unique URL in their default web browser.
 
-~~5.~~ Please star the project if you find it useful. It helps me a lot and motivates me to work on more projects like this one.
+5. Please star the project if you find it useful. It helps me a lot and motivates me to work on more projects like this one.
     - Also please feel free to create an issue if you find any bugs or have any suggestions for improvement.
 
 # Current Roadmap:
