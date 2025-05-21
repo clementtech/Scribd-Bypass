@@ -1,5 +1,6 @@
 import re
 import sys
+
 try:
     import pyperclip
     import webbrowser
