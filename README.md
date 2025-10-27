@@ -67,7 +67,7 @@ https://www.scribd.com/document/{document_id}/{document_title}
 
 # Current Roadmap:
 - [ ] Integration with Telegram bot for easy access.
-- [ ] Web application for easy access.
+- [ ] Web application for easy access. (My new POC: https://github.com/clementtech/Scribd-Bypass-JS)
 
 # Disclaimer:
 This program is intended for educational purposes only. The author does not endorse or promote any illegal activities, including bypassing paywalls or accessing copyrighted material without permission. Users are responsible for ensuring that they comply with all applicable laws and regulations regarding the use of this program and the content accessed through it. The author disclaims any liability for any misuse of this program or its consequences.
